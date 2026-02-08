@@ -6,6 +6,7 @@
 - 干活。
 
 ## 一些开源项目
+- [traj-dist-rs](https://github.com/Davidham3/traj-dist-rs)：这个是用于轨迹距离计算的包，使用rust编写，支持rust与python两种语言，欧氏距离的计算上比traj-dist有10倍以上的性能提升。
 - [TrajDL](https://github.com/Spatial-Temporal-Data-Mining/TrajDL)：这个是用于轨迹数据挖掘的算法包，还在开发中。
 - [STSGCN](https://github.com/Davidham3/STSGCN)：AAAI 2020 STSGCN源码。
 - [ASTGCN](https://github.com/Davidham3/ASTGCN-2019-mxnet)：AAAI 2019 ASTGCN源码。
