@@ -1,20 +1,17 @@
-# 👋 你好！
+# 👋 Hello!
 
-我是阿里集团菜鸟驿站算法负责人，负责菜鸟驿站所有算法工作，方向涉及时空数据挖掘、计算机视觉、LLM与AI Agent、推荐算法。
+I lead the Machine Learning team at Cainiao Station (Alibaba Group), responsible for all ML work at Cainiao Station. My work spans Spatio-temporal Data Mining, Computer Vision and Agentic AI.
 
-## 💻 最近在做什么？
-- 干活。
+## Some Open Source Projects
+- [traj-dist-rs](https://github.com/Davidham3/traj-dist-rs)：A Rust-based package for trajectory distance computation. Supports both Rust and Python, offering over 10x performance improvement over traj-dist for Euclidean distance calculations.
+- [TrajDL](https://github.com/Spatial-Temporal-Data-Mining/TrajDL)：A package for trajectory data mining algorithms, currently under development.
+- [STSGCN](https://github.com/Davidham3/STSGCN)：Source code for STSGCN (AAAI 2020).
+- [ASTGCN](https://github.com/Davidham3/ASTGCN-2019-mxnet)：Source code for ASTGCN (AAAI 2019).
+- 📜 [My Blog](https://davidham3.github.io/blog/)：My personal blog (Written in Chinese).
+- Check out my GitHub homepage for other projects.
 
-## 一些开源项目
-- [traj-dist-rs](https://github.com/Davidham3/traj-dist-rs)：这个是用于轨迹距离计算的包，使用rust编写，支持rust与python两种语言，欧氏距离的计算上比traj-dist有10倍以上的性能提升。
-- [TrajDL](https://github.com/Spatial-Temporal-Data-Mining/TrajDL)：这个是用于轨迹数据挖掘的算法包，还在开发中。
-- [STSGCN](https://github.com/Davidham3/STSGCN)：AAAI 2020 STSGCN源码。
-- [ASTGCN](https://github.com/Davidham3/ASTGCN-2019-mxnet)：AAAI 2019 ASTGCN源码。
-- 📜 [My Blog](https://davidham3.github.io/blog/)：这是我的个人博客。
-- 其他项目可以看GitHub上的主页。
-
-## 📬 联系我
+## 📬 Contact Me
 📧 Email: mengxian.sc@alibaba-inc.com
 
-## 🎨 个人风格
-> “代码即艺术，简洁即优雅，拥抱新技术！”
+## 🎨 Personal Style
+> Code is art, simplicity is elegance, embrace new technologies!
