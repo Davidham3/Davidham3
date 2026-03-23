@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I lead the Machine Learning team at Cainiao Station (Alibaba Group), responsible for all ML work at Cainiao Station. My work spans Spatio-temporal Data Mining, Computer Vision and Agentic AI.
+I lead the Machine Learning team at Cainiao Station (Alibaba Group), responsible for all ML work at Cainiao Station. My work spans Spatial-temporal Data Mining, Computer Vision and Agentic AI.
 
 ## Some Open Source Projects
 - [traj-dist-rs](https://github.com/Davidham3/traj-dist-rs)：A Rust-based package for trajectory distance computation. Supports both Rust and Python, offering over 10x performance improvement over traj-dist for Euclidean distance calculations.
